@@ -1,1 +1,2 @@
-# Ajout de la commande mark-all
+# Ajout de l'option priorité
+
