@@ -1,2 +1,1 @@
-# Ajout de la commande colors
-
+# Ajout de la commande remove
