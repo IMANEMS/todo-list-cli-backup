@@ -1,3 +1,3 @@
 
-# Ajout de l'interface améliorée
+# Ajout de la commande categories
 
