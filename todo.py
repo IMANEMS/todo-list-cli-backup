@@ -1,2 +1,2 @@
-# Ajout de l'option priorité
 
+# Ajout de la commande validate
